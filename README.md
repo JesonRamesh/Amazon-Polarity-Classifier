@@ -1,6 +1,6 @@
 # Amazon Polarity Sentiment Classifier
 
-This project fine-tunes the [`microsoft/deberta-v3-small`](https://huggingface.co/microsoft/deberta-v3-small) transformer model on the [Amazon Polarity dataset](https://huggingface.co/datasets/amazon_polarity) to classify user reviews as either **Positive** or **Negative**.
+This project fine-tunes the [`distilbert-base-uncased`](https://huggingface.co/distilbert-base-uncased) transformer model on the [Amazon Polarity dataset](https://huggingface.co/datasets/fancyzhx/amazon_polarity) to classify user reviews as either **Positive** or **Negative**.
 
 ## 🚀 Model Highlights
 
@@ -31,6 +31,6 @@ pip install -r requirements.txt
 - `classifier_train.ipynb`: *(optional)* Colab notebook used for training the model.
 
 ## Model weights hosted on 🤗 Hugging Face:  
-👉 [https://huggingface.co/your-username/amazon-polarity-classifier](https://huggingface.co/jeeeeeeeson/amazon-polarity-classifier)
+👉 [https://huggingface.co/jeeeeeeeson/amazon-polarity-classifier](https://huggingface.co/jeeeeeeeson/amazon-polarity-classifier)
 
 

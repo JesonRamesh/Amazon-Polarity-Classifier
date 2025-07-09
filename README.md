@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## 📦 Project Structure
 - `inference.py`: Run predictions using the trained model.
-- `classifier.ipynb`: *(optional)* Colab notebook used for training the model.
+- `classifier_train.ipynb`: *(optional)* Colab notebook used for training the model.
 
 ## Model weights hosted on 🤗 Hugging Face:  
 👉 [https://huggingface.co/your-username/amazon-polarity-classifier](https://huggingface.co/jeeeeeeeson/amazon-polarity-classifier)
